@@ -6,3 +6,6 @@ counter.js - to create a counter function which returns n, n+1, n+2..etc concept
 
 day 3: Leetcode 2704
 tobeornottobe.js 
+
+day 4: Leetcode 2665 
+counterII.js - to create a function that takes input and returns three functions one to increases the current value by 1, reduces the current value by 1, returns the original value
