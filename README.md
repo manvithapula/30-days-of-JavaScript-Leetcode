@@ -12,3 +12,6 @@ counterII.js - to create a function that takes input and returns three functions
 
 day 5: Leetcode 2635
 transform.js - to create an function to input arr and loop it and increase the elements by one
+
+day 6: Leetcode 2634
+filterarray.js - 
