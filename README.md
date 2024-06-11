@@ -14,7 +14,13 @@ day 5: Leetcode 2635
 transform.js - to create an function to input arr and loop it and increase the elements by one
 
 day 6: Leetcode 2634
-filterarray.js 
+filterarray.js -
 
 day 7: Leetcode 2626
 arrayreduce.js 
+
+day 8: Leetcode 2629 
+
+
+day 9: Leetcode 2702 
+lengthofarguments.js - function to return length of arguments passed 
