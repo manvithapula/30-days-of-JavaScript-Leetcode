@@ -17,10 +17,10 @@ day 6: Leetcode 2634
 filterarray.js -
 
 day 7: Leetcode 2626
-arrayreduce.js 
+arrayreduce.js - 
 
 day 8: Leetcode 2629 
-
+functioncomposition.js - return function in the array accepts one integer as input and returns one integer as output.
 
 day 9: Leetcode 2702 
 lengthofarguments.js - function to return length of arguments passed 
