@@ -24,3 +24,6 @@ functioncomposition.js - return function in the array accepts one integer as inp
 
 day 9: Leetcode 2702 
 lengthofarguments.js - function to return length of arguments passed 
+
+day 10: Leetcode 2666
+callfunctiononce.js - this function calls at most once and returns undefined if called more than that
