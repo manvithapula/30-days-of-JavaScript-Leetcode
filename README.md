@@ -34,8 +34,11 @@ callfunctiononce.js - this function calls at most once and returns undefined if 
 concept: only one fucntion call
 
 day 11: Leetcode 2623
+memoize.js 
 
 day 12: Leetcode 2723
+addpromise.js
 concept: promises
 
 day 13: Leetcode 2621
+sleep.js
